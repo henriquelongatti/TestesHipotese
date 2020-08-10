@@ -1,0 +1,353 @@
+UF,Sexo,Idade,Anos de Estudo,Renda
+Rondônia,Masculino,64,5,600
+Rondônia,Masculino,53,8,1800
+Rondônia,Masculino,34,16,8000
+Rondônia,Feminino,45,5,640
+Rondônia,Masculino,33,5,1250
+Rondônia,Masculino,65,16,7500
+Rondônia,Feminino,30,9,1000
+Rondônia,Masculino,28,16,7000
+Rondônia,Masculino,51,5,800
+Acre,Masculino,57,16,5000
+Acre,Feminino,41,1,300
+Amazonas,Feminino,50,12,1200
+Amazonas,Feminino,54,12,1300
+Amazonas,Feminino,33,13,800
+Amazonas,Masculino,54,12,10000
+Amazonas,Masculino,27,13,800
+Amazonas,Masculino,43,12,900
+Roraima,Feminino,40,14,3000
+Pará,Feminino,33,12,500
+Pará,Masculino,32,7,2500
+Pará,Feminino,54,12,788
+Pará,Feminino,47,11,500
+Pará,Masculino,50,16,20000
+Pará,Masculino,42,15,1000
+Pará,Feminino,61,12,1000
+Pará,Feminino,64,16,0
+Pará,Masculino,40,9,1500
+Pará,Masculino,55,12,2300
+Pará,Feminino,47,1,600
+Pará,Masculino,56,1,650
+Pará,Feminino,38,1,200
+Pará,Masculino,59,12,50000
+Amapá,Masculino,49,9,1600
+Amapá,Masculino,50,1,1000
+Amapá,Feminino,30,12,1200
+Tocantins,Masculino,49,12,1500
+Tocantins,Feminino,43,16,1576
+Tocantins,Feminino,26,12,1300
+Tocantins,Masculino,46,16,5000
+Maranhão,Masculino,56,9,1900
+Ceará,Masculino,60,6,788
+Ceará,Masculino,39,6,800
+Ceará,Feminino,32,12,416
+Ceará,Feminino,50,12,2000
+Ceará,Feminino,70,5,250
+Ceará,Feminino,42,5,100
+Ceará,Masculino,64,4,788
+Ceará,Masculino,36,15,830
+Ceará,Feminino,36,5,500
+Ceará,Feminino,31,12,788
+Ceará,Feminino,49,13,1576
+Ceará,Masculino,32,16,8930
+Paraíba,Masculino,34,7,1400
+Pernambuco,Masculino,41,16,2000
+Pernambuco,Masculino,47,10,800
+Pernambuco,Masculino,28,2,788
+Pernambuco,Feminino,40,12,1100
+Pernambuco,Masculino,42,12,788
+Pernambuco,Feminino,35,9,600
+Pernambuco,Feminino,58,16,6000
+Pernambuco,Masculino,35,12,1400
+Pernambuco,Feminino,65,16,8000
+Pernambuco,Masculino,51,16,1200
+Pernambuco,Feminino,54,6,860
+Pernambuco,Feminino,36,4,620
+Pernambuco,Masculino,61,16,13000
+Pernambuco,Masculino,56,16,5500
+Sergipe,Masculino,33,12,1200
+Sergipe,Masculino,36,1,250
+Sergipe,Feminino,37,6,200
+Bahia,Masculino,78,9,2000
+Bahia,Masculino,33,9,1400
+Bahia,Feminino,45,16,3500
+Bahia,Feminino,26,13,1300
+Bahia,Feminino,34,5,40
+Bahia,Feminino,32,16,990
+Minas Gerais,Feminino,59,16,1500
+Minas Gerais,Feminino,41,12,3000
+Minas Gerais,Feminino,31,16,1184
+Minas Gerais,Masculino,28,11,4000
+Minas Gerais,Feminino,33,5,850
+Minas Gerais,Masculino,33,12,1700
+Espírito Santo,Feminino,38,16,4000
+Rio de Janeiro,Masculino,52,5,4000
+Rio de Janeiro,Masculino,51,9,1400
+Rio de Janeiro,Feminino,37,11,900
+Rio de Janeiro,Feminino,29,11,788
+Rio de Janeiro,Feminino,28,16,3200
+Rio de Janeiro,Masculino,36,6,1600
+Rio de Janeiro,Masculino,51,12,1520
+Rio de Janeiro,Masculino,22,11,1510
+Rio de Janeiro,Feminino,35,16,5800
+Rio de Janeiro,Feminino,54,16,3000
+Rio de Janeiro,Masculino,52,9,2000
+Rio de Janeiro,Masculino,34,12,1600
+Rio de Janeiro,Masculino,45,16,1600
+Rio de Janeiro,Feminino,36,16,7000
+Rio de Janeiro,Feminino,38,16,13000
+Rio de Janeiro,Feminino,37,16,2400
+Rio de Janeiro,Masculino,29,15,1500
+Rio de Janeiro,Feminino,40,16,10000
+Rio de Janeiro,Feminino,60,12,500
+São Paulo,Feminino,53,16,1500
+São Paulo,Masculino,37,16,6000
+São Paulo,Masculino,64,5,2500
+São Paulo,Masculino,68,16,1000
+São Paulo,Feminino,52,12,900
+São Paulo,Masculino,45,12,788
+São Paulo,Masculino,56,12,3000
+São Paulo,Masculino,74,7,1500
+São Paulo,Masculino,63,12,5000
+São Paulo,Masculino,55,16,15000
+São Paulo,Masculino,24,12,2000
+São Paulo,Feminino,64,5,0
+São Paulo,Masculino,60,16,9600
+São Paulo,Feminino,35,16,3500
+São Paulo,Masculino,37,16,3200
+São Paulo,Feminino,39,16,3800
+São Paulo,Masculino,35,16,10000
+São Paulo,Masculino,40,16,9000
+São Paulo,Masculino,42,16,13000
+São Paulo,Feminino,58,16,5000
+São Paulo,Feminino,33,16,1500
+São Paulo,Feminino,59,16,2000
+São Paulo,Masculino,71,16,1800
+São Paulo,Masculino,27,12,800
+São Paulo,Masculino,39,12,2800
+São Paulo,Masculino,24,7,1300
+São Paulo,Feminino,42,12,2000
+São Paulo,Feminino,66,5,500
+São Paulo,Masculino,50,16,14000
+São Paulo,Feminino,50,12,1100
+São Paulo,Feminino,43,16,3700
+São Paulo,Masculino,56,9,1800
+São Paulo,Masculino,38,14,3500
+São Paulo,Masculino,28,12,1600
+São Paulo,Masculino,38,5,1700
+São Paulo,Masculino,70,9,1600
+São Paulo,Masculino,53,6,2500
+São Paulo,Masculino,49,9,1600
+São Paulo,Masculino,64,16,4000
+São Paulo,Masculino,47,12,2500
+São Paulo,Masculino,45,10,2000
+São Paulo,Masculino,43,12,1200
+São Paulo,Masculino,28,14,8400
+São Paulo,Masculino,33,16,4000
+São Paulo,Feminino,58,16,8100
+São Paulo,Masculino,55,15,6000
+São Paulo,Masculino,50,15,4000
+São Paulo,Masculino,50,16,10000
+São Paulo,Feminino,62,16,1000
+São Paulo,Masculino,53,12,4000
+São Paulo,Masculino,75,5,750
+São Paulo,Masculino,78,16,5000
+São Paulo,Masculino,68,7,1500
+São Paulo,Masculino,49,12,1800
+São Paulo,Feminino,46,16,1000
+São Paulo,Masculino,52,16,10000
+São Paulo,Masculino,38,16,5000
+São Paulo,Masculino,43,16,5000
+São Paulo,Masculino,57,16,4000
+São Paulo,Masculino,50,16,8000
+São Paulo,Masculino,69,16,8000
+São Paulo,Masculino,65,16,5000
+São Paulo,Masculino,60,12,8000
+São Paulo,Feminino,29,16,6000
+São Paulo,Masculino,31,16,4500
+São Paulo,Feminino,61,12,3000
+São Paulo,Masculino,44,12,1200
+São Paulo,Feminino,60,1,1900
+São Paulo,Masculino,34,16,2500
+São Paulo,Feminino,52,16,3000
+São Paulo,Feminino,51,16,10000
+São Paulo,Feminino,31,16,3000
+São Paulo,Masculino,41,16,3000
+São Paulo,Masculino,63,9,1500
+São Paulo,Feminino,32,16,3200
+São Paulo,Masculino,43,16,11000
+São Paulo,Masculino,64,12,2500
+São Paulo,Masculino,44,16,20000
+São Paulo,Masculino,62,16,20000
+São Paulo,Masculino,63,16,1700
+São Paulo,Masculino,70,15,4000
+São Paulo,Masculino,46,16,10000
+São Paulo,Masculino,52,16,3000
+São Paulo,Masculino,37,16,2000
+São Paulo,Masculino,42,16,6000
+São Paulo,Masculino,31,16,10000
+São Paulo,Feminino,31,16,2800
+São Paulo,Feminino,48,16,7500
+São Paulo,Masculino,67,5,1650
+São Paulo,Masculino,60,16,10000
+São Paulo,Masculino,36,16,2000
+São Paulo,Masculino,43,16,3500
+São Paulo,Masculino,63,14,5000
+São Paulo,Masculino,42,16,15000
+São Paulo,Feminino,40,16,10000
+São Paulo,Feminino,47,12,2000
+São Paulo,Masculino,53,16,8000
+São Paulo,Masculino,58,16,2700
+São Paulo,Feminino,34,16,6000
+São Paulo,Masculino,33,12,1800
+São Paulo,Masculino,53,12,788
+São Paulo,Masculino,45,16,17000
+São Paulo,Masculino,54,12,4000
+São Paulo,Masculino,39,16,1500
+São Paulo,Masculino,65,16,2000
+São Paulo,Masculino,43,16,2000
+São Paulo,Masculino,76,16,3000
+São Paulo,Masculino,57,16,6000
+São Paulo,Feminino,78,12,5000
+São Paulo,Masculino,31,16,11000
+São Paulo,Masculino,30,16,18000
+São Paulo,Masculino,35,16,20000
+São Paulo,Feminino,41,16,12800
+São Paulo,Masculino,42,16,4000
+São Paulo,Masculino,65,5,3000
+São Paulo,Masculino,40,16,800
+São Paulo,Masculino,40,12,1000
+São Paulo,Masculino,52,12,4000
+São Paulo,Masculino,54,9,4000
+São Paulo,Feminino,68,16,3000
+Parana,Feminino,52,16,13000
+Parana,Masculino,41,12,2000
+Parana,Feminino,33,11,600
+Parana,Masculino,43,16,6000
+Parana,Masculino,29,16,6000
+Parana,Masculino,39,12,1500
+Parana,Masculino,47,16,1600
+Parana,Feminino,32,12,1000
+Parana,Masculino,24,12,1500
+Parana,Masculino,24,14,1200
+Parana,Masculino,27,15,3000
+Parana,Masculino,55,16,14000
+Parana,Feminino,58,12,1200
+Parana,Masculino,53,16,10000
+Parana,Masculino,61,16,3200
+Parana,Masculino,62,16,3500
+Parana,Masculino,49,16,4500
+Parana,Masculino,35,12,2500
+Parana,Masculino,47,16,20000
+Parana,Masculino,54,16,4000
+Parana,Masculino,63,16,28000
+Parana,Masculino,35,13,3500
+Parana,Masculino,34,12,4000
+Parana,Masculino,56,11,2700
+Parana,Masculino,29,12,1600
+Parana,Masculino,56,5,700
+Parana,Masculino,46,12,3000
+Parana,Feminino,36,16,1200
+Parana,Masculino,54,16,5000
+Parana,Feminino,65,16,8000
+Parana,Masculino,43,9,2000
+Parana,Masculino,52,16,7800
+Parana,Masculino,67,16,14000
+Parana,Masculino,38,13,1577
+Parana,Masculino,53,16,2000
+Parana,Feminino,54,3,940
+Parana,Masculino,47,9,2500
+Parana,Feminino,21,16,900
+Parana,Masculino,33,12,5000
+Parana,Masculino,65,5,1000
+Parana,Feminino,51,9,1000
+Parana,Feminino,38,14,1000
+Parana,Feminino,54,12,2500
+Parana,Masculino,29,16,6000
+Parana,Masculino,68,9,1500
+Parana,Masculino,48,16,5000
+Parana,Masculino,52,16,17000
+Parana,Masculino,40,12,2200
+Parana,Masculino,37,16,5000
+Parana,Masculino,56,12,3000
+Parana,Masculino,49,14,3900
+Parana,Masculino,72,4,1000
+Parana,Masculino,77,12,1500
+Santa Cartarina,Masculino,62,16,16000
+Santa Cartarina,Masculino,31,12,2500
+Santa Cartarina,Feminino,33,9,1090
+Rio Grande do Sul,Masculino,35,12,1100
+Rio Grande do Sul,Masculino,45,12,3000
+Rio Grande do Sul,Masculino,52,9,800
+Rio Grande do Sul,Masculino,39,16,8000
+Rio Grande do Sul,Feminino,53,16,19000
+Rio Grande do Sul,Feminino,53,12,4000
+Rio Grande do Sul,Masculino,66,2,0
+Rio Grande do Sul,Feminino,43,13,200
+Rio Grande do Sul,Feminino,70,12,1500
+Mato Grosso do Sul,Feminino,32,12,2000
+Mato Grosso do Sul,Masculino,74,12,3000
+Mato Grosso do Sul,Feminino,37,16,20000
+Mato Grosso do Sul,Masculino,52,15,7500
+Mato Grosso do Sul,Masculino,38,9,1200
+Mato Grosso do Sul,Masculino,47,16,5000
+Mato Grosso do Sul,Masculino,37,12,1100
+Mato Grosso do Sul,Masculino,43,16,4700
+Mato Grosso do Sul,Masculino,66,16,1000
+Mato Grosso do Sul,Masculino,33,15,3800
+Mato Grosso do Sul,Masculino,59,16,9000
+Mato Grosso do Sul,Masculino,61,9,7500
+Mato Grosso do Sul,Masculino,31,16,1200
+Mato Grosso do Sul,Feminino,75,5,120
+Mato Grosso,Masculino,43,16,1200
+Mato Grosso,Masculino,42,12,1000
+Mato Grosso,Feminino,62,12,300
+Mato Grosso,Masculino,51,9,5000
+Mato Grosso,Feminino,38,9,895
+Mato Grosso,Masculino,42,5,3000
+Mato Grosso,Masculino,37,16,15000
+Mato Grosso,Feminino,32,12,788
+Goiás,Masculino,31,12,1000
+Goiás,Masculino,38,16,2500
+Goiás,Masculino,49,16,3800
+Goiás,Masculino,47,16,3500
+Goiás,Masculino,28,13,2364
+Goiás,Feminino,32,16,4000
+Goiás,Feminino,59,16,5000
+Goiás,Masculino,53,16,8500
+Goiás,Masculino,22,12,900
+Goiás,Feminino,33,12,1000
+Goiás,Feminino,57,12,3000
+Goiás,Masculino,40,16,2700
+Goiás,Feminino,31,16,1600
+Goiás,Masculino,47,11,3250
+Goiás,Masculino,31,12,3000
+Goiás,Masculino,49,13,2750
+Goiás,Masculino,61,1,2250
+Goiás,Feminino,27,16,2000
+Goiás,Feminino,33,6,1500
+Goiás,Masculino,30,12,3000
+Goiás,Masculino,27,16,3500
+Goiás,Masculino,55,12,3000
+Goiás,Masculino,63,12,5000
+Goiás,Feminino,45,16,4900
+Goiás,Masculino,46,7,2730
+Goiás,Feminino,55,12,2300
+Goiás,Masculino,62,1,1000
+Goiás,Masculino,62,9,0
+Goiás,Feminino,53,12,1000
+Goiás,Masculino,32,12,1000
+Goiás,Masculino,37,12,30000
+Distrito Federal,Masculino,48,16,10000
+Distrito Federal,Masculino,37,16,6000
+Distrito Federal,Masculino,21,12,800
+Distrito Federal,Feminino,26,16,2000
+Distrito Federal,Masculino,64,9,1000
+Distrito Federal,Feminino,42,16,11000
+Distrito Federal,Feminino,30,16,2000
+Distrito Federal,Masculino,32,16,4000
+Distrito Federal,Feminino,60,16,3000
+Distrito Federal,Feminino,47,15,12000
+Distrito Federal,Masculino,53,16,15000
+Distrito Federal,Masculino,28,12,800
